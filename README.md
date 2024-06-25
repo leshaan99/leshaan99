@@ -6,8 +6,10 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leshan99&label=Profile%20views&color=0e75b6&style=flat" alt="leshan99" /> </p>
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leshan99" alt="leshan99" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **DevOps Engineering**
 
