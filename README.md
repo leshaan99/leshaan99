@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Leshan Sanjeewa</h1>
 <h3 align="center">Undergraduate Software Engineering at the University of Kelaniya</h3>
+<br>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leshan99&label=Profile%20views&color=0e75b6&style=flat" alt="leshan99" /> </p>
 
