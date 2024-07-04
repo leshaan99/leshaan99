@@ -43,6 +43,6 @@
 
 <h3 align="center">Github Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h3>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leshan99&show_icons=true&locale=en&layout=compact" alt="leshan99" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leshaan99&show_icons=true&locale=en&layout=compact" alt="leshaan99" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leshan99&show_icons=true&locale=en" alt="leshan99" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en" alt="leshaan99" /></p>
