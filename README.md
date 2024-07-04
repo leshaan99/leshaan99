@@ -27,7 +27,7 @@
 <a href="https://fb.com/leshaan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leshan99" height="40" width="50" /></a>
 <a href="https://instagram.com/leshaan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leshan.99" height="40" width="50" /></a>
 <a href="https://medium.com/@leshaan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leshan99" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/leshan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leshan99" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/leshaan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leshan99" height="40" width="50" /></a>
 </p>
 <br>
 
