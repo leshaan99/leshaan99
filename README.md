@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps Engineering**
 
-- 📝 I regularly write articles on [https://medium.com/@leshan99](https://medium.com/@leshaan99)
+- 📝 I regularly write articles on [https://medium.com/@leshaan99](https://medium.com/@leshaan99)
 
 - 💬 Ask me about **react, node, MySql, linux, and docker**
 
