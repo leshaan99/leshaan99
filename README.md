@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, MySql, linux**
 
-- 📫 Reach me **leshansanjeewa25@gmail.com**
+- 📫 Reach me on **leshansanjeewa25@gmail.com**
 
 <br>
 
