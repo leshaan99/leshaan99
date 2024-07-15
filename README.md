@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m enthusiastic with **DevOps Engineering**
+- 🌱 I’m enthusiastic with **DevOps & Cloud Engineering**
 
 - 📝 I regularly write articles on [https://medium.com/@leshaan99](https://medium.com/@leshaan99)
 
