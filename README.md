@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m enthusiastic with **DevOps Engineering & Full-Stack Development**
+- 🌱 I’m enthusiastic with **DevOps Engineering ☁ & Full-Stack Development** ⚙
 
 - 📝 I regularly write articles on [https://medium.com/@leshaan99](https://medium.com/@leshaan99)
 
