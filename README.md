@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@leshaan99](https://medium.com/@leshaan99)
 
-- 💬 Ask me about **React, MySql, Linux & Docker**
+- 💬 Ask me about **Java**
 
 - 📫 Reach me on **leshansanjeewa25@gmail.com**
 
