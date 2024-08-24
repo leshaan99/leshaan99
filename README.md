@@ -30,7 +30,7 @@
 
 <h3 align="center">Github Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h3>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" bg_color=#808080/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" bg_color=#808080/>
 <img src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="leshaan99"/></p>
 <br>
 
