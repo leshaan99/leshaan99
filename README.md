@@ -36,25 +36,25 @@
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/> </a> 
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> 
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> <br>
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> 
-<a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Light.svg" alt="maven" width="50" height="50"/> 
-<a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Netlify-Light.svg" alt="netlify" width="50" height="50"/> 
-<a href="https://nginx.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Nginx.svg" alt="nginx" width="50" height="50"/> 
+<a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Light.svg" alt="maven" width="50" height="50"/> </a> 
+<a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Netlify-Light.svg" alt="netlify" width="50" height="50"/> </a> 
+<a href="https://nginx.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Nginx.svg" alt="nginx" width="50" height="50"/> </a> 
 <a href="https://aws.amazon.com" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" width="50" height="50"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50"/> 
-<a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" alt="idea" width="50" height="50"/> 
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="50" height="50"/> 
-<a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Light.svg" alt="vite" width="50" height="50"/> 
-<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" alt="gitub-action" width="50" height="50"/> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50"/> </a> 
+<a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" alt="idea" width="50" height="50"/> </a> 
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="50" height="50"/> </a> 
+<a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Light.svg" alt="vite" width="50" height="50"/> </a> 
+<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" alt="gitub-action" width="50" height="50"/></a>  <br>
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="github" width="50" height="50"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="50" height="50"/>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" width="50" height="50"/>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AfterEffects.svg" alt="aftereffects" width="50" height="50"/> </p>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="50" height="50"/></a> 
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" width="50" height="50"/></a> 
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AfterEffects.svg" alt="aftereffects" width="50" height="50"/></a>  </p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
