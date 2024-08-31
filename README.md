@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [medium.com/@leshaan99](https://medium.com/@leshaan99)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java & Linux**
 
 - 📫 Reach me on **leshansanjeewa25@gmail.com**
 
