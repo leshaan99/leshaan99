@@ -78,3 +78,5 @@
 <a href="https://www.hackerrank.com/leshaan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leshan99" height="50" width="50" /></a>
 </p>
 <br>
+
+[![](https://visitcount.itsvg.in/api?id=leshaan99&icon=5&color=1)](https://visitcount.itsvg.in)
