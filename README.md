@@ -79,4 +79,8 @@
 </p>
 <br>
 
-<p align="center"> [![](https://visitcount.itsvg.in/api?id=leshaan99&icon=5&color=1)](https://visitcount.itsvg.in) </p>
+<div style="text-align: center;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=leshaan99&icon=5&color=1" alt="Visitor Count">
+  </a>
+</div>
