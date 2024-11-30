@@ -2,11 +2,13 @@
 
 <h1 align="center">Hiii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Leshan Sanjeewa</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate;University+of+Kelaniya"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate;University+of+Kelaniya"></a>
 </p>
 <br>
 
 
+
+- 🌱 I’m enthusiastic with **DevOps Engineering ☁ & Full-Stack Development** ⚙
 
 - 🌱 I’m enthusiastic with **DevOps & Cloud Engineering ☁ & Full-Stack Development** ⚙
   
@@ -75,16 +77,9 @@
 
 <h3 align="center">Github Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></h3>
 <br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; background-color: #0d1117; padding: 20px;">
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="leshaan99"/>
-    <br><br>
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="leshaan99" src="https://github-readme-streak-stats.herokuapp.com/?user=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"/>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&langs_count=10" alt="Most Used Languages"/>
-  </div>
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" bg_color=#808080/>
+<img src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="leshaan99"/></p>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
