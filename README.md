@@ -91,7 +91,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&langs_count=10" bg_color=#808080/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&langs_count=10"/>
   
   </td>
 </tr>
