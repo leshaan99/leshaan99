@@ -82,7 +82,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="leshaan99"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&&hide_border=false" bg_color=#808080/>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leshaan99&show_icons=true&locale=en&bg_color=#808080&text_color=ffffff&&hide_border=false"/>
   
 </td>
 <td width="50%" align="center">
