@@ -85,7 +85,7 @@
 <img 
     title="🔥 Get streak stats for your profile at git.io/streak-stats" 
     alt="leshaan99" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=leshaan99&text_color=ffffff&hide_border=false&bg_color=0d1117" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" 
 />
   
 </td>
