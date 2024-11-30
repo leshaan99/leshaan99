@@ -75,29 +75,16 @@
 
 <h3 align="center">Github Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></h3>
 <br>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="leshaan99"/>
-  <br></br>
-<img 
-    title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-    alt="leshaan99" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" 
-/>
-  
-</td>
-<td width="50%" align="center">
-
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-</p>
-<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; background-color: #0d1117; padding: 20px;">
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="leshaan99"/>
+    <br><br>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="leshaan99" src="https://github-readme-streak-stats.herokuapp.com/?user=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"/>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&langs_count=10" alt="Most Used Languages"/>
+  </div>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
