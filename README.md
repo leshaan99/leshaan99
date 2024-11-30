@@ -77,7 +77,7 @@
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" bg_color=#808080/>
 <img src="https://github-readme-stats.vercel.app/api?username=leshaan99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="leshaan99"/></p>
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leshaan99&show_icons=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leshaan99&show_icons=true&&locale=en&bg_color=0d1117&text_color=fffffflangs_count=10"/>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
