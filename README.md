@@ -81,6 +81,14 @@
 <h3 align="center">Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <br>
 
-<p align="center">
-<a href="https://linkedin.com/in/leshaan99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leshan99" height="50" width="50" /></a>&nbsp;&nbsp;<a href="https://fb.com/leshaan99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leshan99" height="50" width="50" /></a>&nbsp;&nbsp;<a href="https://instagram.com/leshaan99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leshan.99" height="50" width="50" /></a>&nbsp;&nbsp;<a href="https://medium.com/@leshaan99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leshan99" height="50" width="50" /></a>&nbsp;&nbsp;<a href="https://www.hackerrank.com/leshaan99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leshan99" height="50" width="50" /></a>
-</p>
+<h3 align="center">Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100"></h3>
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/leshaan99"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="https://fb.com/leshaan99"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" /></a>
+  <a href="https://instagram.com/leshaan99"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" /></a>
+  <a href="https://medium.com/@leshaan99"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="50" width="50" /></a>
+  <a href="https://www.hackerrank.com/leshaan99"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" /></a>
+</div>
+<br>
